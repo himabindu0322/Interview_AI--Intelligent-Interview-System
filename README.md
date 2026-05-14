@@ -11,7 +11,7 @@ An AI-powered interview preparation platform that helps users practice interview
 📊 Performance Tracking Dashboard
 🧾 Personalized Interview Preparation
 
-# 🛠️ Tech Stack Used
+ 🛠️ Tech Stack Used
 
 # 🎨 Frontend
 React.js
