@@ -1,0 +1,19 @@
+# client (frontend) commands
+
+Create React App
+npx create-vite@latest client --template react
+
+Go Inside Client Folder
+cd client
+
+Install Packages
+npm install
+
+Install additional packages:
+npm install react-router-dom axios react-hot-toast
+
+start frontend
+
+Inside client:
+cd  client
+npm run dev
