@@ -1,47 +1,51 @@
-# Interview_AI-Intelligent-Interview-System
-An AI-powered interview preparation platform that helps users practice interviews, improve communication skills, and strengthen coding ability using smart AI feedback. The system simulates real interview environments using NLP, LLM APIs, and speech recognition.
+# SkillSprint
+It is a full-stack Interview Preparation Platform built using the MERN Stack.  
+It helps students and job seekers practice coding problems, prepare interview questions, upload resumes, and track interview performance.
 
-# 📌 Features
-📄 Upload Resume & Get AI Analysis
-🤖 AI-Generated Interview Questions
-💻 Coding Practice Questions
-🧠 AI Evaluation of Answers
-🎤 Speech-to-Text Mock Interviews
-💬 Communication Skill Feedback
-📊 Performance Tracking Dashboard
-🧾 Personalized Interview Preparation
 
- 🛠️ Tech Stack Used
+# Features
 
-# 🎨 Frontend
-React.js
-HTML5
-CSS3 
-JavaScript (ES6+)
+- User Authentication (Login & Signup)
+- Resume Upload System
+- Coding Practice Questions
+- Multiple Programming Language Selection
+- Speech Interview Practice
+- Webcam Analysis Interface
+- Performance Tracking Dashboard
+- Clean Responsive UI
+- MERN Stack Architecture
 
-# ⚙️ Backend
-Node.js
-Express.js
+---
 
-# 🗄️ Database
-MongoDB Atlas
-Mongoose
+# Tech Stack
 
-# 🤖 AI / Machine Learning
-OpenAI API / Google Gemini API
-Natural Language Processing (NLP)
-Speech-to-Text APIs (Web Speech API / Google Speech API)
-Sentiment Analysis
+## Frontend
+- React.js
+- Vite
+- CSS
+- React Hot Toast
+
+## Backend
+- Node.js
+- Express.js
+
+## Database
+- MongoDB Atlas
+- Mongoose
+
+## Other Tools
+- Multer (File Uploads)
+- JWT Authentication
+- CORS
+- dotenv
+
+---
+
 
 # 🔐 Authentication & Security
 JSON Web Tokens (JWT)
 bcrypt.js (password hashing)
 
-# 📊 Features / AI Components
-LLM-based Interview Question Generator
-AI Answer Evaluation System
-Resume Parsing (NLP-based)
-Recommendation System (Skill-based suggestions)
 
 # ☁️ Deployment
 Frontend: Vercel / Netlify
@@ -54,52 +58,49 @@ VS Code
 Postman / Thunder client
 npm 
 
-# Uses of the Project
-📄 Resume-Based Interview Preparation
-Users can upload their resume and receive personalized interview questions based on their skills and experience.
 
-🧠 AI-Powered Mock Interviews
-Simulates real interview scenarios with AI-generated questions and dynamic follow-ups.
+# Available Features
 
-💬 Communication Skill Improvement
-Provides feedback on spoken/written answers to improve clarity, confidence, and structure.
+## Resume Upload
+Users can upload resumes in:
+- PDF
+- DOC
+- DOCX
 
-💻 Coding Practice Platform
-Helps users solve coding questions and strengthen problem-solving skills.
+## Coding Practice
+Users can:
+- Select coding questions
+- Choose programming language
+- Write code
+- Run sample execution
+- Get feedback
 
-🎤 Speech-to-Text Interview Practice
-Enables real-time voice-based interview simulation for better practice experience.
+## Interview Questions
+Users receive interview preparation questions based on:
+- Role
+- Company
 
-📊 Performance Tracking Dashboard
-Tracks user progress, strengths, weaknesses, and improvement over time.
+## Performance Dashboard
+Tracks:
+- Questions Answered
+- Coding Problems Solved
+- Communication Score
+- Technical Score
 
-🏢 Placement Preparation Tool
-Useful for students preparing for campus placements, off-campus drives, and technical interviews.
+---
 
-# 🚀 Future Enhancements
-🧩 Personalized Learning Path
-AI-generated roadmap based on user performance and skill gaps.
+# Future Enhancements
 
-🛡️ Cheating Detection System
-Detect tab switching, unusual behavior, and inactivity during tests.
+- Real Code Compiler Integration
+- Online Video Interview Rooms
+- Leaderboard System
+- Mock Test System
+- Company-wise Question Bank
+- Resume Analyzer
+- Dark Mode
+- Generate Using Open AI
 
-🌐 Multi-language Support
-Support for regional and global languages for wider accessibility.
 
-📱 Mobile Application
-Android/iOS app for practicing interviews on the go.
-
-🤖 AI Resume Builder Integration
-Auto-generate and optimize resumes based on job roles.
-
-📈 Advanced Analytics Dashboard
-Deep insights like skill radar chart, progress heatmaps, and AI scoring trends.
-💡 Why This Project?
-
-This project simulates a real-world AI hiring assistant platform, making it highly valuable for:
-
-Placement preparation ,Resume strengthening ,AI/ML portfolio building
-Startup-level project showcase
 # 🧑‍💻 Author
 HimaBindu Karri 
 
